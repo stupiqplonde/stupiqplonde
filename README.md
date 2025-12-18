@@ -1,10 +1,10 @@
 # 👋 Привет, я [Michael]!
 
-**🚀 [Ученик]** | **📍 [Симферополь]**
+** Я ученик ** | ** Симферополь **
 
 ---
 
-## 🛠️ Технологии и инструменты
+## 🛠️ Технологии
 
 ### 💻 Backend
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -17,20 +17,6 @@
 ### 🗄️ Базы данных
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
----
-
-## 📈 Статистика GitHub
-
-<div align="center">
-  
-  ![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-  
-  ![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
-  
-  ![Стрик коммитов](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
-
-</div>
 
 ---
 
